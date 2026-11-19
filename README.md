@@ -47,7 +47,3 @@ Si quieres otra estructura de carpetas, primero ábrelo como bóveda nueva (opci
 ## Mapa del framework
 
 Ver [Framework de investigación](02_Areas/Investigacion/Framework/Framework%20de%20investigacion.md): flujo de fases, guía y plantillas de cada una, y reglas transversales.
-
-## Licencia y créditos
-
-Se comparte bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Las fuentes del método están en [Créditos y licencia](02_Areas/Investigacion/Framework/Creditos%20y%20licencia.md).
