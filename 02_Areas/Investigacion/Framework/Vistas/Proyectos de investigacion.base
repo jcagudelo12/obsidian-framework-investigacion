@@ -1,0 +1,29 @@
+filters:
+  and:
+    - '!file.inFolder("Plantillas")'
+    - '!file.inFolder("02_Areas/Investigacion/Framework/Proyecto en blanco")'
+views:
+  - type: table
+    name: Proyectos
+    filters:
+      and:
+        - tipo == "proyecto-investigacion"
+    order:
+      - file.name
+      - titulo_provisional
+      - estado
+      - inicio
+      - file.folder
+  - type: table
+    name: Fases de todos los proyectos
+    filters:
+      and:
+        - tipo == "fase-investigacion"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - fase
+      - estado
+      - entrega
