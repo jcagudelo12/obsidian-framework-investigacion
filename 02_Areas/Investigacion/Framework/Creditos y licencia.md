@@ -13,11 +13,13 @@ Versión 1.0 · 2026
 
 ## Licencia
 
-Este material se comparte bajo **Creative Commons Atribución 4.0 Internacional (CC BY 4.0)**: puedes copiarlo, adaptarlo y redistribuirlo, incluso con fines comerciales, siempre que des crédito a la fuente e indiques si hiciste cambios. Texto de la licencia: https://creativecommons.org/licenses/by/4.0/deed.es
+Este material está en **dominio público** bajo **CC0 1.0 Universal**: puedes copiarlo, modificarlo, redistribuirlo y usarlo para cualquier fin, incluso comercial, **sin pedir permiso y sin dar crédito**. Texto de la licencia: https://creativecommons.org/publicdomain/zero/1.0/deed.es
+
+**Excepción:** el diagrama de flujo y la lista de verificación de **PRISMA 2020** (incluidos en `Adjuntos` y en la plantilla F7c) son obra de sus autores y conservan su licencia **CC BY 4.0**. Si los usas, cita a Page et al. (2021).
 
 ## Fuentes del método
 
-Las ideas y los procedimientos vienen de estas obras; cítalas a ellas, no al framework, en tu informe.
+Las ideas y los procedimientos vienen de estas obras. No hace falta citar el framework, pero en tu informe sí debes citar estas fuentes cuando uses sus métodos.
 
 - Kitchenham, B. A., Dybå, T., & Jørgensen, M. (2004). Evidence-based software engineering. *Proceedings of the 26th International Conference on Software Engineering (ICSE 2004)*, 273–281.
 - Kitchenham, B., & Charters, S. (2007). *Guidelines for performing systematic literature reviews in software engineering* (EBSE Technical Report 2007-01). Keele University & Durham University.
