@@ -21,12 +21,26 @@ Integra cuatro prácticas reconocidas:
 
 ## Cómo usarlo
 
-1. Descarga el repositorio (**Code → Download ZIP**) o clónalo.
-2. En Obsidian (**versión 1.9 o superior**), elige **Abrir carpeta como bóveda** y selecciona la carpeta descargada.
-3. Abre [Empieza aquí](02_Areas/Investigacion/Framework/00%20Empieza%20aqui.md). También está en los **Marcadores** del panel izquierdo.
-4. Copia la carpeta `Proyecto en blanco` a `01_Proyectos/` y empieza por la fase F1.
+### Opción A · Como bóveda nueva (recomendada)
 
-La bóveda ya trae activados los complementos que usa, que vienen incluidos en Obsidian: Bases, Plantillas y Propiedades. No necesita complementos de terceros.
+1. Descarga el repositorio: botón verde **Code → Download ZIP** (o `git clone`).
+2. **Descomprime** el ZIP. Queda una carpeta `obsidian-framework-investigacion-main`; puedes renombrarla como quieras y moverla donde guardes tus documentos.
+3. Instala [Obsidian](https://obsidian.md) **1.9 o superior**, ábrelo y elige **Abrir carpeta como bóveda** (*Open folder as vault*). Selecciona la carpeta descomprimida, la que contiene `README.md`, no una carpeta de adentro.
+4. Abre **Empieza aquí** desde los **Marcadores** del panel izquierdo, o desde [este enlace](02_Areas/Investigacion/Framework/00%20Empieza%20aqui.md).
+5. Copia la carpeta `02_Areas/Investigacion/Framework/Proyecto en blanco` a `01_Proyectos/`, renómbrala y empieza por la fase F1.
+
+La bóveda ya trae la configuración, guardada en la carpeta oculta `.obsidian`: Bases, Plantillas y Propiedades activados, la carpeta de plantillas definida y los `.docx` y `.xlsx` visibles. Solo usa complementos incluidos en Obsidian, sin complementos de terceros.
+
+> Si al descomprimir no ves la carpeta `.obsidian`, es porque está oculta. Está ahí y Obsidian la lee igual.
+
+### Opción B · Dentro de una bóveda que ya tienes
+
+1. Copia **`02_Areas/Investigacion`** y **`Plantillas/Investigacion`** a tu bóveda, **con esas mismas rutas**. Los enlaces usan rutas completas y se rompen si cambian.
+2. En **Ajustes → Plantillas**, pon `Plantillas` como carpeta de plantillas (o la carpeta donde estén tus plantillas, siempre que contenga `Investigacion`).
+3. En **Ajustes → Complementos principales**, activa **Bases**, **Plantillas** y **Propiedades**.
+4. Opcional: en **Ajustes → Archivos y enlaces**, activa **Detectar todas las extensiones de archivo** para ver los `.docx` y `.xlsx`.
+
+Si quieres otra estructura de carpetas, primero ábrelo como bóveda nueva (opción A) y mueve las carpetas **desde Obsidian**: así los enlaces se actualizan solos.
 
 > Los diagramas (Mermaid) y las tablas automáticas solo se ven dentro de Obsidian. En GitHub verás el código.
 
